@@ -1,0 +1,12 @@
+course = 'Python for Beginners'
+print(course[0])
+print(course[-1])
+print(course[0:3])
+print(course[0:])
+print(course[1:])
+print(course[:5])
+print(course[1:-1])
+print(len(course))
+print(course.title())
+print(course.find('P'))
+print('P' in course)
