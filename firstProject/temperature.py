@@ -9,3 +9,4 @@ elif temperature > 10:  # (10,20]
     print("It's a bit cold")
 else:
     print("It's cold")
+    
